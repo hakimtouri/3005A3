@@ -93,19 +93,6 @@ Function Descriptions:
 1. getAllStudents()
 Retrieves and displays all student records from the database in a formatted table.
 
-Example Output:
-
-================================================================================
-ALL STUDENTS
-================================================================================
-ID    First Name      Last Name       Email                          Enrollment Date
---------------------------------------------------------------------------------
-1     John            Doe             john.doe@example.com           2023-09-01
-2     Jane            Smith           jane.smith@example.com         2023-09-01
-3     Jim             Beam            jim.beam@example.com           2023-09-02
-
-Total students: 3
-
 
 2. addStudent(first_name, last_name, email, enrollment_date)
 Inserts a new student record into the database.
